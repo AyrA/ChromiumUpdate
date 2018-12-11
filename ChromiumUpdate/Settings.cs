@@ -16,7 +16,7 @@ namespace ChromiumUpdate
         private static Config C;
         private static string _SettingsFile;
 
-        private static string SettingsFile
+        public static string SettingsFile
         {
             get
             {
